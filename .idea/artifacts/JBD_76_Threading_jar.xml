@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JBD-76-Threading:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JBD_76_Threading_jar</output-path>
+    <root id="archive" name="JBD-76-Threading.jar">
+      <element id="module-output" name="JBD-76-Threading" />
+    </root>
+  </artifact>
+</component>
